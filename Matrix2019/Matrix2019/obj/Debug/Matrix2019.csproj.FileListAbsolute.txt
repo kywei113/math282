@@ -1,0 +1,6 @@
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\bin\Debug\Matrix2019.exe.config
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\bin\Debug\Matrix2019.exe
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\bin\Debug\Matrix2019.pdb
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\obj\Debug\Matrix2019.csproj.CoreCompileInputs.cache
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\obj\Debug\Matrix2019.exe
+D:\virpc\MATH282 C#\Matrix2019\Matrix2019\obj\Debug\Matrix2019.pdb
